@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026.5
+### HyperHDR Version 21.0.0.0
+
+
+
 ## 2026.4
 ### HyperHDR Version 21.0.0.0
 
