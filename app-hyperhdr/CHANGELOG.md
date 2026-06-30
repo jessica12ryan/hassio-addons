@@ -3,6 +3,7 @@
 ## 2026.5
 ### HyperHDR Version 21.0.0.0
 
+- Create SECURITY.md
 - Update LICENSE.md
 
 ## 2026.4
