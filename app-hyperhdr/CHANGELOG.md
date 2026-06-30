@@ -3,7 +3,7 @@
 ## 2026.5
 ### HyperHDR Version 21.0.0.0
 
-
+- Update LICENSE.md
 
 ## 2026.4
 ### HyperHDR Version 21.0.0.0
