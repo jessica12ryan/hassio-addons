@@ -51,6 +51,8 @@ jobs:
 
             ### Changes
             ${{ steps.changelog.outputs.notes }}
+
+            For the full log of changes, see [CHANGELOG.md](app-hyperhdr/CHANGELOG.md).
           draft: true
           prerelease: false
         env:
