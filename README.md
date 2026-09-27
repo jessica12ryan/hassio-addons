@@ -10,20 +10,20 @@
 ![amd64][amd64-badge]
 ![armv7][armv7no-badge]
 
+### Credits:
+- [awawa-dev](https://github.com/awawa-dev/HyperHDR) for HyperHDR  
+- [bradsjm](https://github.com/bradsjm/hassio-addons) for hassio-addon template  
+- [appleimperio](https://github.com/appleimperio/docker-hyperhdr) for HyperHDR dockerfile
+- [jessica12ryan](https://github.com/jessica12ryan) for HyperHDR App updates
+
 ***
 
-## Installation instructions:
+## Repo Installation instructions:
 
 [![Add repository to Home Assistant][repository-badge]][repository-url]
 
 Or simply add this github repo `https://github.com/ihrapsa/hassio-addons.git` as a third-party app repository in Home Assistant **App Store** then install it.
 See [here](https://www.home-assistant.io/hassio/installing_third_party_addons/) for more details on how to do that
-
-## Credits:
-- [awawa-dev](https://github.com/awawa-dev/HyperHDR) for HyperHDR  
-- [bradsjm](https://github.com/bradsjm/hassio-addons) for hassio-addon template  
-- [appleimperio](https://github.com/appleimperio/docker-hyperhdr) for HyperHDR dockerfile
-- [jessica12ryan](https://github.com/jessica12ryan) for HyperHDR updates
 
 
 [aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
